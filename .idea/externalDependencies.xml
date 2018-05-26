@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="AngularJS" />
+    <plugin id="Emma" />
+    <plugin id="Git4Idea" />
+    <plugin id="JavaScriptDebugger" />
+    <plugin id="NodeJS" />
+    <plugin id="com.intellij.aop" />
+    <plugin id="com.intellij.css" />
+    <plugin id="com.intellij.database" />
+    <plugin id="com.intellij.plugins.html.instantEditing" />
+    <plugin id="com.intellij.uiDesigner" />
+    <plugin id="com.jetbrains.restClient" />
+    <plugin id="org.jetbrains.android" />
+    <plugin id="org.jetbrains.plugins.github" />
+    <plugin id="org.jetbrains.plugins.less" />
+    <plugin id="org.jetbrains.plugins.sass" />
+    <plugin id="org.jetbrains.plugins.stylus" />
+  </component>
+</project>
